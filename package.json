@@ -1,0 +1,31 @@
+{
+  "name": "d-image-optim",
+  "version": "1.0.0",
+  "description": "BoilerPlate app for ImageOptim",
+  "main": "app.js",
+  "dependencies": {
+    "imagemin": "^4.0.0",
+    "imagemin-webp": "^3.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/newswim/image-optim.git"
+  },
+  "keywords": [
+    "imageoptim",
+    "jpeg",
+    "gif",
+    "png",
+    "webp"
+  ],
+  "author": "dan minshew",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/newswim/image-optim/issues"
+  },
+  "homepage": "https://github.com/newswim/image-optim#readme"
+}
